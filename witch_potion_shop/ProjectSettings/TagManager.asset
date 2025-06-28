@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftMove
+  - RightMove
+  - UpMove
+  - DownMove
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - front_of_UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: blind
+    uniqueID: 1748933553
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: object
+    uniqueID: 1297337245
+    locked: 0
+  - name: character
+    uniqueID: 4191062135
+    locked: 0
